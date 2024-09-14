@@ -1,0 +1,9 @@
+bosdyn-client
+numpy
+opencv-python
+scipy
+Flask
+Flask-Cors
+depthai
+open3d
+
